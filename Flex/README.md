@@ -1,6 +1,6 @@
 ## `Website clonudemy`
 
-This website is biulding with
+This clones about popular websites
 HTML5
 CSS3 - Flexbox, Sass
 JS - Gulp Tasks
